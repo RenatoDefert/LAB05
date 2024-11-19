@@ -1,0 +1,5 @@
+C:/Users/Aluno/Documents/Micro/LAB05/timer2adc1/CMakeFiles/timer2adc1.dir
+C:/Users/Aluno/Documents/Micro/LAB05/timer2adc1/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/Micro/LAB05/timer2adc1/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Documents/Micro/LAB05/timer2adc1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/Micro/LAB05/timer2adc1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
